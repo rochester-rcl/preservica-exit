@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.2">
+    <Transfer>
+        <SourceID>2e13527b-4021-48be-9255-6c73b5e0295c</SourceID>
+        <Fixities>
+            <Fixity type="SHA-1" value="2fe715af5c15e17f3da817dc47fefc9f5bbc3f43"/>
+        </Fixities>
+    </Transfer>
+    <Properties>
+        <Title>Correspondence from John McGraw to Mary McGraw, March 23, 1864</Title>
+        <Description>Correspondence from John McGraw to Mary McGraw, March 23, 1864, John McGraw Civil War Letters, D.528, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester.</Description>
+        <SecurityDescriptor>public</SecurityDescriptor>
+        <Identifiers>
+            <Identifier type="code">ur:16822</Identifier>
+            <Identifier type="uri">/repositories/2/digital_objects/471</Identifier>
+            <Identifier type="local">D528_1_2_1864_03_23-001-002</Identifier>
+            <Identifier type="dps">RCL003_cuid166</Identifier>
+        </Identifiers>
+    </Properties>
+    <DescriptiveMetadata>
+        <LegacyXIP xmlns="http://preservica.com/LegacyXIP" xmlns:opex="http://www.openpreservationexchange.org/opex/v1.1">
+            <AccessionRef>catalogue</AccessionRef>
+		</LegacyXIP>
+        <catalogue xmlns="http://www.preservica.com/archives_space/v1">
+            <title>Correspondence from John McGraw to Mary McGraw, March 23, 1864</title>
+            <repository>
+                <ref>/repositories/2</ref>
+            </repository>
+            <jsonmodel_type>digital_object</jsonmodel_type>
+            <linked_instances>
+                <linked_instances>
+                    <ref>/repositories/2/archival_objects/315455</ref>
+                </linked_instances>
+            </linked_instances>
+            <suppressed>false</suppressed>
+            <create_time>2022-09-23T18:10:03Z</create_time>
+            <file_versions>
+                <file_versions>
+                    <file_uri>&lt;a href="https://us.preservica.com/explorer/explorer.html#prop:7&amp;2e13527b-4021-48be-9255-6c73b5e0295c"&gt;Preservica Internal&lt;/a&gt;</file_uri>
+                    <use_statement>Digital Preservation Staff System</use_statement>
+                    <publish>true</publish>
+                    <jsonmodel_type>file_version</jsonmodel_type>
+                </file_versions>
+            </file_versions>
+            <file_versions>
+                <file_versions>
+                    <file_uri>&lt;a href="https://uorrcl.access.preservica.com/archive/sdb%3AdeliverableUnit|2e13527b-4021-48be-9255-6c73b5e0295c/"&gt;Preservica Access&lt;/a&gt;</file_uri>
+                    <use_statement>Electronic Record Access System</use_statement>
+                    <publish>true</publish>
+                    <jsonmodel_type>file_version</jsonmodel_type>
+                </file_versions>
+            </file_versions>
+            <lock_version>1</lock_version>
+            <level>work</level>
+            <tree>
+                <ref>/repositories/2/digital_objects/471/tree</ref>
+            </tree>
+            <restrictions>false</restrictions>
+            <last_modified_by>admin_api</last_modified_by>
+            <created_by>admin_api</created_by>
+            <uri>/repositories/2/digital_objects/471</uri>
+            <external_documents>
+                <external_documents>
+                    <lock_version>0</lock_version>
+                    <title>TypeDeliverableUnit</title>
+                    <location>2e13527b-4021-48be-9255-6c73b5e0295c</location>
+                    <publish>true</publish>
+                    <created_by>admin_api</created_by>
+                    <last_modified_by>admin_api</last_modified_by>
+                    <create_time>2022-09-23T18:10:03Z</create_time>
+                    <system_mtime>2022-09-23T18:10:03Z</system_mtime>
+                    <user_mtime>2022-09-23T18:10:03Z</user_mtime>
+                    <jsonmodel_type>external_document</jsonmodel_type>
+                </external_documents>
+            </external_documents>
+            <publish>true</publish>
+            <user_mtime>2022-09-23T18:10:03Z</user_mtime>
+            <digital_object_id>ur:16822</digital_object_id>
+            <system_mtime>2022-09-23T18:10:04Z</system_mtime>
+            <RawJson>{"notes":[],"metadata_rights_declarations":[],"title":"Correspondence from John McGraw to Mary McGraw, March 23, 1864","repository":{"ref":"/repositories/2"},"jsonmodel_type":"digital_object","is_slug_auto":true,"linked_agents":[],"linked_instances":[{"ref":"/repositories/2/archival_objects/315455"}],"suppressed":false,"rights_statements":[],"create_time":"2022-09-23T18:10:03Z","extents":[],"file_versions":[{"file_uri":"&lt;a href=\"https://us.preservica.com/explorer/explorer.html#prop:7&amp;2e13527b-4021-48be-9255-6c73b5e0295c\"&gt;Preservica Internal&lt;\/a&gt;","use_statement":"Digital Preservation Staff System","publish":true,"jsonmodel_type":"file_version"},{"file_uri":"&lt;a href=\"https://uorrcl.access.preservica.com/archive/sdb%3AdeliverableUnit|2e13527b-4021-48be-9255-6c73b5e0295c/\"&gt;Preservica Access&lt;\/a&gt;","use_statement":"Electronic Record Access System","publish":true,"jsonmodel_type":"file_version"}],"lock_version":1,"level":"work","subjects":[],"tree":{"ref":"/repositories/2/digital_objects/471/tree"},"restrictions":false,"dates":[],"last_modified_by":"admin_api","created_by":"admin_api","external_ids":[],"uri":"/repositories/2/digital_objects/471","classifications":[],"lang_materials":[],"external_documents":[{"create_time":"2022-09-23T18:10:03Z","lock_version":0,"publish":true,"user_mtime":"2022-09-23T18:10:03Z","location":"2e13527b-4021-48be-9255-6c73b5e0295c","last_modified_by":"admin_api","title":"TypeDeliverableUnit","system_mtime":"2022-09-23T18:10:03Z","created_by":"admin_api","jsonmodel_type":"external_document"}],"publish":true,"user_mtime":"2022-09-23T18:10:03Z","linked_events":[],"digital_object_id":"ur:16822","system_mtime":"2022-09-23T18:10:04Z"}</RawJson>
+        </catalogue>
+        <ns0:premis xmlns:ns0="http://www.loc.gov/premis/v3" xmlns="http://preservica.com/XIP/v6.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+            <ns0:object xsi:type="premis:intellectualEntity">
+                <ns0:objectIdentifier>
+                    <ns0:objectIdentifierType>preservica_uuid</ns0:objectIdentifierType>
+                    <ns0:objectIdentifierValue>2e13527b-4021-48be-9255-6c73b5e0295c</ns0:objectIdentifierValue>
+            </ns0:objectIdentifier>
+        </ns0:object>
+            <ns0:rights>
+                <ns0:rightsStatement>
+                    <ns0:rightsStatementIdentifier>
+                        <ns0:rightsStatementIdentifierType>rights_uuid</ns0:rightsStatementIdentifierType>
+                        <ns0:rightsStatementIdentifierValue>f0a4c555-1b0b-4da5-8523-d08af3dd48f8</ns0:rightsStatementIdentifierValue>
+                </ns0:rightsStatementIdentifier>
+                    <ns0:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">copyright</ns0:rightsBasis>
+                    <ns0:copyrightInformation>
+                        <ns0:copyrightStatus>publicdomain</ns0:copyrightStatus>
+                        <ns0:copyrightJurisdiction>us</ns0:copyrightJurisdiction>
+                        <ns0:copyrightStatusDeterminationDate>2022-09-26</ns0:copyrightStatusDeterminationDate>
+                        <ns0:copyrightNote>Determined to no longer be eligible for copyright protection due to age of materials, as unpublished materials created greater than the life of the author plus seventy years ago</ns0:copyrightNote>
+                        <ns0:copyrightDocumentationIdentifier>
+                            <ns0:copyrightDocumentationIdentifierType>Rights Statement: No Copyright - United States</ns0:copyrightDocumentationIdentifierType>
+                            <ns0:copyrightDocumentationIdentifierValue>http://rightsstatements.org/vocab/NoC-US/1.0/</ns0:copyrightDocumentationIdentifierValue>
+                    </ns0:copyrightDocumentationIdentifier>
+                </ns0:copyrightInformation>
+                    <ns0:linkingObjectIdentifier>
+                        <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                        <ns0:linkingObjectIdentifierValue>2e13527b-4021-48be-9255-6c73b5e0295c</ns0:linkingObjectIdentifierValue>
+                </ns0:linkingObjectIdentifier>
+            </ns0:rightsStatement>
+        </ns0:rights>
+            <ns0:event>
+                <ns0:eventIdentifier>
+                    <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                    <ns0:eventIdentifierValue>881aaf53-ab46-4cbb-8dcd-0b6299939fdf</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+                <ns0:eventType>creation</ns0:eventType>
+                <ns0:eventDateTime>2019</ns0:eventDateTime>
+                <ns0:eventDetailInformation>
+                    <ns0:eventDetail>digitized other analog</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+                <ns0:linkingAgentIdentifier>
+                    <ns0:linkingAgentIdentifierType>local</ns0:linkingAgentIdentifierType>
+                    <ns0:linkingAgentIdentifierValue>Lisa Wright, Digitization Specialist, Digital Scholarship, University of Rochester River Campus Libraries</ns0:linkingAgentIdentifierValue>
+                    <ns0:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">implementer</ns0:linkingAgentRole>
+            </ns0:linkingAgentIdentifier>
+                <ns0:linkingObjectIdentifier>
+                    <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                    <ns0:linkingObjectIdentifierValue>2e13527b-4021-48be-9255-6c73b5e0295c</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+    </ns0:premis>
+        <ns0:dcterms xmlns:ns0="http://purl.org/dc/terms/" xmlns="http://preservica.com/XIP/v7.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://purl.org/dc/terms/">
+            <dc:title>Correspondence from John McGraw to Mary McGraw, March 23, 1864</dc:title>
+            <dc:creator xsi:type="dcterms:LCSH">McGraw, John, 1835-1875</dc:creator>
+            <dc:contributor xsi:type="dcterms:LCSH">McGraw, Mary McCarty, 1836-approximately 1895</dc:contributor>
+            <dc:coverage>Camp at Warington Junction, VA</dc:coverage>
+            <dc:date xsi:type="dcterms:EDTF">1864-03-23</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:format xsi:type="dcterms:IMT">image/tiff</dc:format>
+            <dc:type xsi:type="dcterms:AAT">correspondence</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+            <ns0:isPartOf>John McGraw Civil War Letters</ns0:isPartOf>
+            <dc:source>D.528, Box 1, Folder 2</dc:source>
+            <ns0:isReferencedBy xsi:type="dcterms:URI">https://archives.lib.rochester.edu/repositories/2/resources/1334</ns0:isReferencedBy>
+            <dc:rights>Use of this Item is not restricted by copyright and/or related rights. In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item. Please refer to the organization that has made the Item available for more information. http://rightsstatements.org/vocab/NoC-OKLR/1.0/</dc:rights>
+            <dc:rights>Except in a few circumstances, Rare Books, Special Collections, and Preservation does not hold the copyright to materials in its care and, therefore, cannot grant or deny permission to use them. It is the researcher's obligation to determine and satisfy copyright or other restrictions when publishing or otherwise distributing materials found in the collections. In all cases, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester must be appropriately cited.  Please use the preferred citation. For more information contact rarebks@library.rochester.edu.</dc:rights>
+            <ns0:accessRights>The John McGraw Civil War Letters are open for research use. Researchers are advised to contact Rare Books, Special Collections, and Preservation prior to visiting. Upon arrival, researchers will also be asked to fill out a registration form and provide photo identification.</ns0:accessRights>
+            <dc:publisher>Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester</dc:publisher>
+            <dc:identifier>D528_1_2_1864_03_23-001-002</dc:identifier>
+            <dc:identifier>ur:16822</dc:identifier>
+            <ns0:bibliographicCitation>Correspondence from John McGraw to Mary McGraw, March 23, 1864, John McGraw Civil War Letters, D.528, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester.</ns0:bibliographicCitation>
+</ns0:dcterms>
+    </DescriptiveMetadata>
+</OPEXMetadata>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.2">
+    <Transfer>
+        <SourceID>137333b2-bff6-4658-9270-a7aba4dec180</SourceID>
+        <Fixities>
+            <Fixity type="SHA-1" value="a27220927c877dfa78d7e6e02317fb8478f7ff4a"/>
+        </Fixities>
+    </Transfer>
+    <Properties>
+        <Title>Aerial view of the University of Rochester Medical Center, 1961</Title>
+        <SecurityDescriptor>public</SecurityDescriptor>
+        <Identifiers>
+            <Identifier type="handle">http://hdl.handle.net/1802/1867</Identifier>
+            <Identifier type="dps">MED001_cuid4_1867</Identifier>
+            <Identifier type="project_id">DPS082_2025-01_URRMIN_URMC2</Identifier>
+        </Identifiers>
+    </Properties>
+    <DescriptiveMetadata>
+        <dcterms:dcterms xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opex="http://www.openpreservationexchange.org/opex/v1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://purl.org/dc/terms/">
+            <dc:title>Aerial view of the University of Rochester Medical Center, 1961</dc:title>
+            <dc:description>An aerial view of the Medical Center complex looking north. The image was photographed in December 1961.</dc:description>
+            <dc:creator xsi:type="dcterms:LCSH">Wahl's Photographic Service</dc:creator>
+            <dc:subject xsi:type="dcterms:MESH">University of Rochester. Medical Center</dc:subject>
+            <dc:coverage xsi:type="dcterms:LCSH">New York (State)--Pittsford</dc:coverage>
+            <dc:date xsi:type="dcterms:W3CDTF">1961-12</dc:date>
+            <dc:type xsi:type="dcterms:DCMIType">StillImage</dc:type>
+            <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+            <dc:type xsi:type="dcterms:AAT">photographs</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+            <isPartOf>URMC Historical Photographs</isPartOf>
+            <dc:rights>This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. In addition, no permission is required from the rights-holder(s) for educational uses. For other uses, you need to obtain permission from the rights-holder(s). https://rightsstatements.org/page/InC-EDU/1.0/</dc:rights>
+            <dc:publisher>Edward G. Miner Library, History of Medicine Section, University of Rochester Medical Center</dc:publisher>
+            <dc:identifier>http://hdl.handle.net/1802/1867</dc:identifier>
+</dcterms:dcterms>
+        <ns0:premis xmlns:ns0="http://www.loc.gov/premis/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+        <ns0:object xsi:type="premis:intellectualEntity">
+            <ns0:objectIdentifier>
+                <ns0:objectIdentifierType>preservica_uuid</ns0:objectIdentifierType>
+                <ns0:objectIdentifierValue>137333b2-bff6-4658-9270-a7aba4dec180</ns0:objectIdentifierValue>
+            </ns0:objectIdentifier>
+        </ns0:object>
+        <ns0:rights>
+            <ns0:rightsStatement>
+                <ns0:rightsStatementIdentifier>
+                    <ns0:rightsStatementIdentifierType>rights_uuid</ns0:rightsStatementIdentifierType>
+                    <ns0:rightsStatementIdentifierValue>a360ce29-94e8-4fb6-ac6d-5ccde0b96a8c</ns0:rightsStatementIdentifierValue>
+                </ns0:rightsStatementIdentifier>
+                <ns0:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">copyright</ns0:rightsBasis>
+                <ns0:copyrightInformation>
+                    <ns0:copyrightStatus>copyrighted</ns0:copyrightStatus>
+                    <ns0:copyrightJurisdiction>us</ns0:copyrightJurisdiction>
+                    <ns0:copyrightStatusDeterminationDate>2025-03-26</ns0:copyrightStatusDeterminationDate>
+                    <ns0:copyrightDocumentationIdentifier>
+                        <ns0:copyrightDocumentationIdentifierType>In Copyright - Educational Use Permitted</ns0:copyrightDocumentationIdentifierType>
+                        <ns0:copyrightDocumentationIdentifierValue>https://rightsstatements.org/page/InC-EDU/1.0/</ns0:copyrightDocumentationIdentifierValue>
+                    </ns0:copyrightDocumentationIdentifier>
+                </ns0:copyrightInformation>
+                <ns0:linkingObjectIdentifier>
+                    <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                    <ns0:linkingObjectIdentifierValue>137333b2-bff6-4658-9270-a7aba4dec180</ns0:linkingObjectIdentifierValue>
+                </ns0:linkingObjectIdentifier>
+            </ns0:rightsStatement>
+        </ns0:rights>
+        <ns0:event>
+            <ns0:eventIdentifier>
+                <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                <ns0:eventIdentifierValue>7087c9a5-e2d6-470e-a6f9-58517d7ac352</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+            <ns0:eventType>migration</ns0:eventType>
+            <ns0:eventDateTime>2025-04-30</ns0:eventDateTime>
+            <ns0:eventDetailInformation>
+                <ns0:eventDetail>Migrated as part of larger project to move from the UR Research institutional repository to Preservica over the course of 2025.</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+            <ns0:linkingAgentIdentifier>
+                <ns0:linkingAgentIdentifierType>local</ns0:linkingAgentIdentifierType>
+                <ns0:linkingAgentIdentifierValue>John Dewees, Senior Digital Asset Management Specialist, Digital Initiatives department, River Campus Libraries, University of Rochester</ns0:linkingAgentIdentifierValue>
+                <ns0:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">implementer</ns0:linkingAgentRole>
+            </ns0:linkingAgentIdentifier>
+            <ns0:linkingObjectIdentifier>
+                <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                <ns0:linkingObjectIdentifierValue>137333b2-bff6-4658-9270-a7aba4dec180</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+        <ns0:event>
+            <ns0:eventIdentifier>
+                <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                <ns0:eventIdentifierValue>10c7dbfc-45b7-4059-bf57-327df3ba3b70</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+            <ns0:eventType>creation</ns0:eventType>
+            <ns0:eventDateTime>2000-2020</ns0:eventDateTime>
+            <ns0:eventDetailInformation>
+                <ns0:eventDetail>reformatted digital</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+            <ns0:linkingAgentIdentifier>
+                <ns0:linkingAgentIdentifierType>local</ns0:linkingAgentIdentifierType>
+                <ns0:linkingAgentIdentifierValue>Edward G. Miner Medical Library History of Medicine Section</ns0:linkingAgentIdentifierValue>
+                <ns0:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">implementer</ns0:linkingAgentRole>
+            </ns0:linkingAgentIdentifier>
+            <ns0:linkingObjectIdentifier>
+                <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                <ns0:linkingObjectIdentifierValue>137333b2-bff6-4658-9270-a7aba4dec180</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+    </ns0:premis>
+    </DescriptiveMetadata>
+</OPEXMetadata>

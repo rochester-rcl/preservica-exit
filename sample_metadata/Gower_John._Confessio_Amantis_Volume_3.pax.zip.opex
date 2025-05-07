@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.2">
+    <Transfer>
+        <SourceID>621e8b79-3d27-4b6f-9021-e0d90d29af35</SourceID>
+        <Fixities>
+            <Fixity type="SHA-1" value="2f70df738651dbbde2a03b2eefa584551ac67d11"/>
+        </Fixities>
+    </Transfer>
+    <Properties>
+        <Title>Gower, John. Confessio Amantis, Volume 3</Title>
+        <Description>Edited by: Russell A. Peck with Latin translations by Andrew Galloway. Year published: 2004. Edition: First. Pages: 556. Born digital files including WordPerfect and/or PageMaker.</Description>
+        <SecurityDescriptor>robbins_open</SecurityDescriptor>
+        <Identifiers>
+            <Identifier type="dps">RCL002_ils214</Identifier>
+            <Identifier type="project_id">DPS002_2023-03_METS</Identifier>
+        </Identifiers>
+    </Properties>
+    <DescriptiveMetadata>
+        <ns0:premis xmlns:ns0="http://www.loc.gov/premis/v3" xmlns="http://preservica.com/XIP/v6.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+            <ns0:object xsi:type="premis:intellectualEntity">
+                <ns0:objectIdentifier>
+                    <ns0:objectIdentifierType>preservica_uuid</ns0:objectIdentifierType>
+                    <ns0:objectIdentifierValue>621e8b79-3d27-4b6f-9021-e0d90d29af35</ns0:objectIdentifierValue>
+            </ns0:objectIdentifier>
+        </ns0:object>
+            <ns0:rights>
+                <ns0:rightsStatement>
+                    <ns0:rightsStatementIdentifier>
+                        <ns0:rightsStatementIdentifierType>rights_uuid</ns0:rightsStatementIdentifierType>
+                        <ns0:rightsStatementIdentifierValue>e0d0f630-b029-400f-999e-26956543f0a5</ns0:rightsStatementIdentifierValue>
+                </ns0:rightsStatementIdentifier>
+                    <ns0:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">copyright</ns0:rightsBasis>
+                    <ns0:copyrightInformation>
+                        <ns0:copyrightStatus>copyrighted</ns0:copyrightStatus>
+                        <ns0:copyrightJurisdiction>us</ns0:copyrightJurisdiction>
+                        <ns0:copyrightStatusDeterminationDate>2023-05-09</ns0:copyrightStatusDeterminationDate>
+                        <ns0:copyrightNote>Copyright for volumes retained by the Medieval Institute Press as described in Series Editor Agreement (no. 2019/05) between Medieval Institute Press and Rossell Hope Robbins Library and Koller-Collins Center for English Studies</ns0:copyrightNote>
+                        <ns0:copyrightDocumentationIdentifier>
+                            <ns0:copyrightDocumentationIdentifierType>Rights Statement: In Copyright</ns0:copyrightDocumentationIdentifierType>
+                            <ns0:copyrightDocumentationIdentifierValue>http://rightsstatements.org/vocab/InC/1.0/</ns0:copyrightDocumentationIdentifierValue>
+                    </ns0:copyrightDocumentationIdentifier>
+                </ns0:copyrightInformation>
+                    <ns0:linkingObjectIdentifier>
+                        <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                        <ns0:linkingObjectIdentifierValue>621e8b79-3d27-4b6f-9021-e0d90d29af35</ns0:linkingObjectIdentifierValue>
+                </ns0:linkingObjectIdentifier>
+            </ns0:rightsStatement>
+        </ns0:rights>
+            <ns0:rights>
+                <ns0:rightsStatement>
+                    <ns0:rightsStatementIdentifier>
+                        <ns0:rightsStatementIdentifierType>rights_uuid</ns0:rightsStatementIdentifierType>
+                        <ns0:rightsStatementIdentifierValue>eb67f4cb-49de-436b-a8d5-bec690e18e2c</ns0:rightsStatementIdentifierValue>
+                </ns0:rightsStatementIdentifier>
+                    <ns0:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">license</ns0:rightsBasis>
+                    <ns0:licenseInformation>
+                        <ns0:licenseTerms>At time of upload, license between Medieval Institute Press and the Rossell Hope Robbins Library and Koller-Collins Center for English Studies governed by agreement: Series Editor Agreement (no. 2019/05). Summary of agreement is that the Medieval Institute Press retains all intellectual property rights to published volumes and grants a license to the Robbins Library to publish an open access digital edition of the volume after the print volume has been published and made available for sale.</ns0:licenseTerms>
+                </ns0:licenseInformation>
+                    <ns0:linkingObjectIdentifier>
+                        <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                        <ns0:linkingObjectIdentifierValue>621e8b79-3d27-4b6f-9021-e0d90d29af35</ns0:linkingObjectIdentifierValue>
+                </ns0:linkingObjectIdentifier>
+            </ns0:rightsStatement>
+        </ns0:rights>
+            <ns0:event>
+                <ns0:eventIdentifier>
+                    <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                    <ns0:eventIdentifierValue>57f9134f-a538-48e2-8950-cc392a3602b7</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+                <ns0:eventType>creation</ns0:eventType>
+                <ns0:eventDateTime>2005-2012</ns0:eventDateTime>
+                <ns0:eventDetailInformation>
+                    <ns0:eventDetail>born digital</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+                <ns0:linkingObjectIdentifier>
+                    <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                    <ns0:linkingObjectIdentifierValue>621e8b79-3d27-4b6f-9021-e0d90d29af35</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+    </ns0:premis>
+    </DescriptiveMetadata>
+</OPEXMetadata>
