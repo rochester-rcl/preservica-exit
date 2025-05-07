@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OPEXMetadata xmlns="http://www.openpreservationexchange.org/opex/v1.2">
+    <Transfer>
+        <SourceID>976c3062-4535-40cd-9928-9bf55cf6c66c</SourceID>
+        <Fixities>
+            <Fixity type="SHA-1" value="0b803e04b5fbef2aed6af57d1e6f3a8455c6e269"/>
+        </Fixities>
+    </Transfer>
+    <Properties>
+        <Title>Campus (April 05, 1935)</Title>
+        <SecurityDescriptor>public</SecurityDescriptor>
+        <Identifiers>
+            <Identifier type="isl_pid">ur:68646</Identifier>
+            <Identifier type="dps">RCL001_ils225_1935-04-05</Identifier>
+            <Identifier type="project_id">DPS031_2024-05_CAMPUS1887</Identifier>
+        </Identifiers>
+    </Properties>
+    <DescriptiveMetadata>
+        <dcterms:dcterms xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opex="http://www.openpreservationexchange.org/opex/v1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://purl.org/dc/terms/">
+            <dc:title>Campus (April 05, 1935)</dc:title>
+            <dc:description>In 1887, the name of the University of Rochester student newspaper was shortened from "The Rochester Campus" to "The Campus."  The intended audience was students, alumni, and faculty, and the student editors included news on all aspects of the school. Editorials, news, short stories, poems, songs, jokes, and parody issues for April Fool's Day appeared regularly. No issues were published between July 1896 and October 1897.</dc:description>
+            <dc:creator xsi:type="dcterms:LCSH">University of Rochester</dc:creator>
+            <dc:publisher>University of Rochester</dc:publisher>
+            <dc:subject xsi:type="dcterms:LCSH">University of Rochester</dc:subject>
+            <dc:coverage xsi:type="dcterms:LCSH">Rochester (N.Y.)</dc:coverage>
+            <dc:date xsi:type="dcterms:W3CDTF">1935-04-05</dc:date>
+            <dcterms:extent>16 pages</dcterms:extent>
+            <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:format xsi:type="dcterms:IMT">image/tiff</dc:format>
+            <dc:type xsi:type="dcterms:AAT">newspapers</dc:type>
+            <dc:type xsi:type="dcterms:AAT">periodicals</dc:type>
+            <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+            <dcterms:isPartOf>Campus</dcterms:isPartOf>
+            <dcterms:isPartOf>University of Rochester Student Publications</dcterms:isPartOf>
+            <dcterms:hasFormat xsi:type="dcterms:URI">https://rochester.primo.exlibrisgroup.com/permalink/01ROCH_INST/1vg5sr1/alma99200843405216</dcterms:hasFormat>
+            <dcterms:replaces>Rochester Campus</dcterms:replaces>
+            <dcterms:isReplacedBy>Campus Times</dcterms:isReplacedBy>
+            <dc:source>LD4747.C19</dc:source>
+            <dc:publisher>Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester</dc:publisher>
+            <dc:rights>This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/</dc:rights>
+            <dc:rights>Except in a few circumstances, Rare Books, Special Collections, and Preservation does not hold the copyright to materials in its care and, therefore, cannot grant or deny permission to use them. It is the researcher's obligation to determine and satisfy copyright or other restrictions when publishing or otherwise distributing materials found in the collections. In all cases, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester must be appropriately cited. Please use the preferred citation. For more information contact rarebks@library.rochester.edu.</dc:rights>
+            <dc:identifier>ur:68646</dc:identifier>
+            <dcterms:bibliographicCitation>Campus (April 05, 1935), Campus (University of Rochester), LD4747.C19, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester</dcterms:bibliographicCitation>
+</dcterms:dcterms>
+        <ns0:premis xmlns:ns0="http://www.loc.gov/premis/v3" xmlns="http://preservica.com/XIP/v7.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+            <ns0:object xsi:type="premis:intellectualEntity">
+                <ns0:objectIdentifier>
+                    <ns0:objectIdentifierType>preservica_uuid</ns0:objectIdentifierType>
+                    <ns0:objectIdentifierValue>976c3062-4535-40cd-9928-9bf55cf6c66c</ns0:objectIdentifierValue>
+            </ns0:objectIdentifier>
+        </ns0:object>
+            <ns0:rights>
+                <ns0:rightsStatement>
+                    <ns0:rightsStatementIdentifier>
+                        <ns0:rightsStatementIdentifierType>rights_uuid</ns0:rightsStatementIdentifierType>
+                        <ns0:rightsStatementIdentifierValue>c7e68413-a02e-4421-9798-46fa264b5e88</ns0:rightsStatementIdentifierValue>
+                </ns0:rightsStatementIdentifier>
+                    <ns0:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">copyright</ns0:rightsBasis>
+                    <ns0:copyrightInformation>
+                        <ns0:copyrightStatus>copyrighted</ns0:copyrightStatus>
+                        <ns0:copyrightJurisdiction>us</ns0:copyrightJurisdiction>
+                        <ns0:copyrightStatusDeterminationDate>2024-06-29</ns0:copyrightStatusDeterminationDate>
+                        <ns0:copyrightNote>Published by the University of Rochester and protected by copyright, which is held by the University of Rochester</ns0:copyrightNote>
+                        <ns0:copyrightDocumentationIdentifier>
+                            <ns0:copyrightDocumentationIdentifierType>In Copyright</ns0:copyrightDocumentationIdentifierType>
+                            <ns0:copyrightDocumentationIdentifierValue>http://rightsstatements.org/vocab/InC/1.0/</ns0:copyrightDocumentationIdentifierValue>
+                    </ns0:copyrightDocumentationIdentifier>
+                </ns0:copyrightInformation>
+                    <ns0:linkingObjectIdentifier>
+                        <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                        <ns0:linkingObjectIdentifierValue>976c3062-4535-40cd-9928-9bf55cf6c66c</ns0:linkingObjectIdentifierValue>
+                </ns0:linkingObjectIdentifier>
+            </ns0:rightsStatement>
+        </ns0:rights>
+            <ns0:event>
+                <ns0:eventIdentifier>
+                    <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                    <ns0:eventIdentifierValue>25581b14-ae30-4dc5-8a97-feb33f4c2a2e</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+                <ns0:eventType>migration</ns0:eventType>
+                <ns0:eventDateTime>2024-11</ns0:eventDateTime>
+                <ns0:eventDetailInformation>
+                    <ns0:eventDetail>Migrated as part of larger project to move from Islandora 7 repositories to Preservica over the course of 2024.</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+                <ns0:linkingAgentIdentifier>
+                    <ns0:linkingAgentIdentifierType>local</ns0:linkingAgentIdentifierType>
+                    <ns0:linkingAgentIdentifierValue>John Dewees, Senior Digital Asset Management Specialist, Digital Initiatives department, River Campus Libraries, University of Rochester</ns0:linkingAgentIdentifierValue>
+                    <ns0:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">implementer</ns0:linkingAgentRole>
+            </ns0:linkingAgentIdentifier>
+                <ns0:linkingObjectIdentifier>
+                    <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                    <ns0:linkingObjectIdentifierValue>976c3062-4535-40cd-9928-9bf55cf6c66c</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+            <ns0:event>
+                <ns0:eventIdentifier>
+                    <ns0:eventIdentifierType>event_uuid</ns0:eventIdentifierType>
+                    <ns0:eventIdentifierValue>f458b897-b894-472f-ab14-519e6ac5aa34</ns0:eventIdentifierValue>
+            </ns0:eventIdentifier>
+                <ns0:eventType>creation</ns0:eventType>
+                <ns0:eventDateTime>2015-2016</ns0:eventDateTime>
+                <ns0:eventDetailInformation>
+                    <ns0:eventDetail>reformatted digital</ns0:eventDetail>
+            </ns0:eventDetailInformation>
+                <ns0:linkingAgentIdentifier>
+                    <ns0:linkingAgentIdentifierType>local</ns0:linkingAgentIdentifierType>
+                    <ns0:linkingAgentIdentifierValue>IRIS Resources</ns0:linkingAgentIdentifierValue>
+                    <ns0:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">implementer</ns0:linkingAgentRole>
+            </ns0:linkingAgentIdentifier>
+                <ns0:linkingObjectIdentifier>
+                    <ns0:linkingObjectIdentifierType>preservica_uuid</ns0:linkingObjectIdentifierType>
+                    <ns0:linkingObjectIdentifierValue>976c3062-4535-40cd-9928-9bf55cf6c66c</ns0:linkingObjectIdentifierValue>
+            </ns0:linkingObjectIdentifier>
+        </ns0:event>
+    </ns0:premis>
+    </DescriptiveMetadata>
+</OPEXMetadata>
