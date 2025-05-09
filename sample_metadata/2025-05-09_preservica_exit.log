@@ -1,0 +1,206 @@
+2025-05-09 09:43:23,404 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:43:23,407 DEBUG Looking up time zone info from registry
+2025-05-09 09:43:23,426 INFO Creating bag for directory M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag
+2025-05-09 09:43:23,447 INFO Creating data directory
+2025-05-09 09:43:23,462 INFO Moving 621e8b79-3d27-4b6f-9021-e0d90d29af35_mets.xml to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\621e8b79-3d27-4b6f-9021-e0d90d29af35_mets.xml
+2025-05-09 09:43:23,482 INFO Moving RCL002_ils214-00frontGOWERrevised.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-00frontGOWERrevised.docx
+2025-05-09 09:43:23,506 INFO Moving RCL002_ils214-00frontGOWERrevised.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-00frontGOWERrevised.odt
+2025-05-09 09:43:23,518 INFO Moving RCL002_ils214-00frontGOWERrevised.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-00frontGOWERrevised.pdf
+2025-05-09 09:43:23,534 INFO Moving RCL002_ils214-00frontGOWERrevised.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-00frontGOWERrevised.wpd
+2025-05-09 09:43:23,546 INFO Moving RCL002_ils214-01intro.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-01intro.docx
+2025-05-09 09:43:23,560 INFO Moving RCL002_ils214-01intro.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-01intro.odt
+2025-05-09 09:43:23,572 INFO Moving RCL002_ils214-01intro.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-01intro.pdf
+2025-05-09 09:43:23,588 INFO Moving RCL002_ils214-01intro.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-01intro.wpd
+2025-05-09 09:43:23,593 INFO Moving RCL002_ils214-02book5.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-02book5.docx
+2025-05-09 09:43:23,619 INFO Moving RCL002_ils214-02book5.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-02book5.odt
+2025-05-09 09:43:23,635 INFO Moving RCL002_ils214-02book5.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-02book5.pdf
+2025-05-09 09:43:23,650 INFO Moving RCL002_ils214-02book5.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-02book5.wpd
+2025-05-09 09:43:23,651 INFO Moving RCL002_ils214-03book6.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-03book6.docx
+2025-05-09 09:43:23,667 INFO Moving RCL002_ils214-03book6.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-03book6.odt
+2025-05-09 09:43:23,683 INFO Moving RCL002_ils214-03book6.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-03book6.pdf
+2025-05-09 09:43:23,701 INFO Moving RCL002_ils214-03book6.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-03book6.wpd
+2025-05-09 09:43:23,714 INFO Moving RCL002_ils214-04book7.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-04book7.docx
+2025-05-09 09:43:23,730 INFO Moving RCL002_ils214-04book7.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-04book7.odt
+2025-05-09 09:43:23,746 INFO Moving RCL002_ils214-04book7.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-04book7.pdf
+2025-05-09 09:43:23,746 INFO Moving RCL002_ils214-04book7.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-04book7.wpd
+2025-05-09 09:43:23,761 INFO Moving RCL002_ils214-05enotes.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-05enotes.docx
+2025-05-09 09:43:23,777 INFO Moving RCL002_ils214-05enotes.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-05enotes.odt
+2025-05-09 09:43:23,793 INFO Moving RCL002_ils214-05enotes.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-05enotes.pdf
+2025-05-09 09:43:23,809 INFO Moving RCL002_ils214-05enotes.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-05enotes.wpd
+2025-05-09 09:43:23,820 INFO Moving RCL002_ils214-06tnotes.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-06tnotes.docx
+2025-05-09 09:43:23,826 INFO Moving RCL002_ils214-06tnotes.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-06tnotes.odt
+2025-05-09 09:43:23,841 INFO Moving RCL002_ils214-06tnotes.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-06tnotes.pdf
+2025-05-09 09:43:23,857 INFO Moving RCL002_ils214-06tnotes.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-06tnotes.wpd
+2025-05-09 09:43:23,871 INFO Moving RCL002_ils214-07rindex.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-07rindex.docx
+2025-05-09 09:43:23,873 INFO Moving RCL002_ils214-07rindex.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-07rindex.odt
+2025-05-09 09:43:23,889 INFO Moving RCL002_ils214-07rindex.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-07rindex.pdf
+2025-05-09 09:43:23,911 INFO Moving RCL002_ils214-07rindex.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-07rindex.wpd
+2025-05-09 09:43:23,922 INFO Moving RCL002_ils214-08sindex.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-08sindex.docx
+2025-05-09 09:43:23,933 INFO Moving RCL002_ils214-08sindex.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-08sindex.odt
+2025-05-09 09:43:23,946 INFO Moving RCL002_ils214-08sindex.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-08sindex.pdf
+2025-05-09 09:43:23,960 INFO Moving RCL002_ils214-08sindex.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-08sindex.wpd
+2025-05-09 09:43:23,963 INFO Moving RCL002_ils214-09biblio.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-09biblio.docx
+2025-05-09 09:43:23,981 INFO Moving RCL002_ils214-09biblio.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-09biblio.odt
+2025-05-09 09:43:23,998 INFO Moving RCL002_ils214-09biblio.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-09biblio.pdf
+2025-05-09 09:43:24,009 INFO Moving RCL002_ils214-09biblio.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-09biblio.wpd
+2025-05-09 09:43:24,021 INFO Moving RCL002_ils214-10glossary.docx to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-10glossary.docx
+2025-05-09 09:43:24,034 INFO Moving RCL002_ils214-10glossary.odt to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-10glossary.odt
+2025-05-09 09:43:24,045 INFO Moving RCL002_ils214-10glossary.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-10glossary.pdf
+2025-05-09 09:43:24,057 INFO Moving RCL002_ils214-10glossary.wpd to M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt\RCL002_ils214-10glossary.wpd
+2025-05-09 09:43:24,073 INFO Moving M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tmpzggyi2gt to data
+2025-05-09 09:43:24,091 INFO Using 1 processes to generate manifests: sha1
+2025-05-09 09:43:24,091 INFO Generating manifest lines for file data/621e8b79-3d27-4b6f-9021-e0d90d29af35_mets.xml
+2025-05-09 09:43:24,105 INFO Generating manifest lines for file data/RCL002_ils214-00frontGOWERrevised.docx
+2025-05-09 09:43:24,121 INFO Generating manifest lines for file data/RCL002_ils214-00frontGOWERrevised.odt
+2025-05-09 09:43:24,136 INFO Generating manifest lines for file data/RCL002_ils214-00frontGOWERrevised.pdf
+2025-05-09 09:43:24,141 INFO Generating manifest lines for file data/RCL002_ils214-00frontGOWERrevised.wpd
+2025-05-09 09:43:24,152 INFO Generating manifest lines for file data/RCL002_ils214-01intro.docx
+2025-05-09 09:43:24,168 INFO Generating manifest lines for file data/RCL002_ils214-01intro.odt
+2025-05-09 09:43:24,181 INFO Generating manifest lines for file data/RCL002_ils214-01intro.pdf
+2025-05-09 09:43:24,184 INFO Generating manifest lines for file data/RCL002_ils214-01intro.wpd
+2025-05-09 09:43:24,200 INFO Generating manifest lines for file data/RCL002_ils214-02book5.docx
+2025-05-09 09:43:24,216 INFO Generating manifest lines for file data/RCL002_ils214-02book5.odt
+2025-05-09 09:43:24,231 INFO Generating manifest lines for file data/RCL002_ils214-02book5.pdf
+2025-05-09 09:43:24,247 INFO Generating manifest lines for file data/RCL002_ils214-02book5.wpd
+2025-05-09 09:43:24,279 INFO Generating manifest lines for file data/RCL002_ils214-03book6.docx
+2025-05-09 09:43:24,295 INFO Generating manifest lines for file data/RCL002_ils214-03book6.odt
+2025-05-09 09:43:24,306 INFO Generating manifest lines for file data/RCL002_ils214-03book6.pdf
+2025-05-09 09:43:24,311 INFO Generating manifest lines for file data/RCL002_ils214-03book6.wpd
+2025-05-09 09:43:24,326 INFO Generating manifest lines for file data/RCL002_ils214-04book7.docx
+2025-05-09 09:43:24,342 INFO Generating manifest lines for file data/RCL002_ils214-04book7.odt
+2025-05-09 09:43:24,358 INFO Generating manifest lines for file data/RCL002_ils214-04book7.pdf
+2025-05-09 09:43:24,374 INFO Generating manifest lines for file data/RCL002_ils214-04book7.wpd
+2025-05-09 09:43:24,390 INFO Generating manifest lines for file data/RCL002_ils214-05enotes.docx
+2025-05-09 09:43:24,407 INFO Generating manifest lines for file data/RCL002_ils214-05enotes.odt
+2025-05-09 09:43:24,423 INFO Generating manifest lines for file data/RCL002_ils214-05enotes.pdf
+2025-05-09 09:43:24,447 INFO Generating manifest lines for file data/RCL002_ils214-05enotes.wpd
+2025-05-09 09:43:24,467 INFO Generating manifest lines for file data/RCL002_ils214-06tnotes.docx
+2025-05-09 09:43:24,477 INFO Generating manifest lines for file data/RCL002_ils214-06tnotes.odt
+2025-05-09 09:43:24,486 INFO Generating manifest lines for file data/RCL002_ils214-06tnotes.pdf
+2025-05-09 09:43:24,497 INFO Generating manifest lines for file data/RCL002_ils214-06tnotes.wpd
+2025-05-09 09:43:24,497 INFO Generating manifest lines for file data/RCL002_ils214-07rindex.docx
+2025-05-09 09:43:24,513 INFO Generating manifest lines for file data/RCL002_ils214-07rindex.odt
+2025-05-09 09:43:24,526 INFO Generating manifest lines for file data/RCL002_ils214-07rindex.pdf
+2025-05-09 09:43:24,538 INFO Generating manifest lines for file data/RCL002_ils214-07rindex.wpd
+2025-05-09 09:43:24,549 INFO Generating manifest lines for file data/RCL002_ils214-08sindex.docx
+2025-05-09 09:43:24,565 INFO Generating manifest lines for file data/RCL002_ils214-08sindex.odt
+2025-05-09 09:43:24,582 INFO Generating manifest lines for file data/RCL002_ils214-08sindex.pdf
+2025-05-09 09:43:24,588 INFO Generating manifest lines for file data/RCL002_ils214-08sindex.wpd
+2025-05-09 09:43:24,620 INFO Generating manifest lines for file data/RCL002_ils214-09biblio.docx
+2025-05-09 09:43:24,636 INFO Generating manifest lines for file data/RCL002_ils214-09biblio.odt
+2025-05-09 09:43:24,652 INFO Generating manifest lines for file data/RCL002_ils214-09biblio.pdf
+2025-05-09 09:43:24,667 INFO Generating manifest lines for file data/RCL002_ils214-09biblio.wpd
+2025-05-09 09:43:24,699 INFO Generating manifest lines for file data/RCL002_ils214-10glossary.docx
+2025-05-09 09:43:24,715 INFO Generating manifest lines for file data/RCL002_ils214-10glossary.odt
+2025-05-09 09:43:24,731 INFO Generating manifest lines for file data/RCL002_ils214-10glossary.pdf
+2025-05-09 09:43:24,747 INFO Generating manifest lines for file data/RCL002_ils214-10glossary.wpd
+2025-05-09 09:43:24,778 INFO Creating bagit.txt
+2025-05-09 09:43:24,806 INFO Creating bag-info.txt
+2025-05-09 09:43:24,823 INFO Creating M:\IDT\DAM\Preservica_Exit_Strategy\staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag\tagmanifest-sha1.txt
+2025-05-09 09:43:25,626 INFO Created bag: M:/IDT/DAM/Preservica_Exit_Strategy/staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag
+2025-05-09 09:43:25,629 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:43:25,631 INFO Validating bag structure: M:/IDT/DAM/Preservica_Exit_Strategy/staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag
+2025-05-09 09:43:26,355 INFO Checking payload consistency. This can take some time for large bags with many payload files...
+2025-05-09 09:43:26,370 INFO The directory M:/IDT/DAM/Preservica_Exit_Strategy/staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag is a valid bag structure
+2025-05-09 09:43:26,370 INFO Archiving bag (zip): M:/IDT/DAM/Preservica_Exit_Strategy/staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag
+2025-05-09 09:43:27,635 INFO Created bag archive: M:/IDT/DAM/Preservica_Exit_Strategy/staging\621e8b79-3d27-4b6f-9021-e0d90d29af35_bag.zip
+2025-05-09 09:43:28,931 INFO 1/4 - Gower, John. Confessio Amantis, Volume 3- 621e8b79-3d27-4b6f-9021-e0d90d29af35_bag.zip - 9 seconds
+2025-05-09 09:45:02,620 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:45:02,620 INFO Creating bag for directory M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag
+2025-05-09 09:45:02,651 INFO Creating data directory
+2025-05-09 09:45:02,683 INFO Moving 976c3062-4535-40cd-9928-9bf55cf6c66c_mets.xml to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\976c3062-4535-40cd-9928-9bf55cf6c66c_mets.xml
+2025-05-09 09:45:02,700 INFO Moving RCL001_ils225_1935-04-05.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05.pdf
+2025-05-09 09:45:02,724 INFO Moving RCL001_ils225_1935-04-05_00001.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00001.tif
+2025-05-09 09:45:02,738 INFO Moving RCL001_ils225_1935-04-05_00002.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00002.tif
+2025-05-09 09:45:02,751 INFO Moving RCL001_ils225_1935-04-05_00003.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00003.tif
+2025-05-09 09:45:02,764 INFO Moving RCL001_ils225_1935-04-05_00004.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00004.tif
+2025-05-09 09:45:02,774 INFO Moving RCL001_ils225_1935-04-05_00005.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00005.tif
+2025-05-09 09:45:02,776 INFO Moving RCL001_ils225_1935-04-05_00006.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00006.tif
+2025-05-09 09:45:02,792 INFO Moving RCL001_ils225_1935-04-05_00007.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00007.tif
+2025-05-09 09:45:02,809 INFO Moving RCL001_ils225_1935-04-05_00008.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00008.tif
+2025-05-09 09:45:02,825 INFO Moving RCL001_ils225_1935-04-05_00009.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00009.tif
+2025-05-09 09:45:02,840 INFO Moving RCL001_ils225_1935-04-05_00010.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00010.tif
+2025-05-09 09:45:02,856 INFO Moving RCL001_ils225_1935-04-05_00011.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00011.tif
+2025-05-09 09:45:02,873 INFO Moving RCL001_ils225_1935-04-05_00012.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00012.tif
+2025-05-09 09:45:02,888 INFO Moving RCL001_ils225_1935-04-05_00013.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00013.tif
+2025-05-09 09:45:02,904 INFO Moving RCL001_ils225_1935-04-05_00014.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00014.tif
+2025-05-09 09:45:02,932 INFO Moving RCL001_ils225_1935-04-05_00015.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00015.tif
+2025-05-09 09:45:02,936 INFO Moving RCL001_ils225_1935-04-05_00016.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d\RCL001_ils225_1935-04-05_00016.tif
+2025-05-09 09:45:02,967 INFO Moving M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tmp7loych4d to data
+2025-05-09 09:45:02,985 INFO Using 1 processes to generate manifests: sha1
+2025-05-09 09:45:02,997 INFO Generating manifest lines for file data/976c3062-4535-40cd-9928-9bf55cf6c66c_mets.xml
+2025-05-09 09:45:03,010 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05.pdf
+2025-05-09 09:45:04,294 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00001.tif
+2025-05-09 09:45:05,397 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00002.tif
+2025-05-09 09:45:06,407 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00003.tif
+2025-05-09 09:45:07,405 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00004.tif
+2025-05-09 09:45:08,374 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00005.tif
+2025-05-09 09:45:09,357 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00006.tif
+2025-05-09 09:45:10,356 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00007.tif
+2025-05-09 09:45:11,340 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00008.tif
+2025-05-09 09:45:12,308 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00009.tif
+2025-05-09 09:45:13,434 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00010.tif
+2025-05-09 09:45:14,433 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00011.tif
+2025-05-09 09:45:15,422 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00012.tif
+2025-05-09 09:45:16,405 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00013.tif
+2025-05-09 09:45:17,373 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00014.tif
+2025-05-09 09:45:18,342 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00015.tif
+2025-05-09 09:45:19,324 INFO Generating manifest lines for file data/RCL001_ils225_1935-04-05_00016.tif
+2025-05-09 09:45:20,324 INFO Creating bagit.txt
+2025-05-09 09:45:20,340 INFO Creating bag-info.txt
+2025-05-09 09:45:20,356 INFO Creating M:\IDT\DAM\Preservica_Exit_Strategy\staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag\tagmanifest-sha1.txt
+2025-05-09 09:45:20,838 INFO Created bag: M:/IDT/DAM/Preservica_Exit_Strategy/staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag
+2025-05-09 09:45:20,839 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:45:20,839 INFO Validating bag structure: M:/IDT/DAM/Preservica_Exit_Strategy/staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag
+2025-05-09 09:45:21,168 INFO Checking payload consistency. This can take some time for large bags with many payload files...
+2025-05-09 09:45:21,184 INFO The directory M:/IDT/DAM/Preservica_Exit_Strategy/staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag is a valid bag structure
+2025-05-09 09:45:21,184 INFO Archiving bag (zip): M:/IDT/DAM/Preservica_Exit_Strategy/staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag
+2025-05-09 09:48:38,138 INFO Created bag archive: M:/IDT/DAM/Preservica_Exit_Strategy/staging\976c3062-4535-40cd-9928-9bf55cf6c66c_bag.zip
+2025-05-09 09:48:39,217 INFO 2/4 - Campus (April 05, 1935)- 976c3062-4535-40cd-9928-9bf55cf6c66c_bag.zip - 310 seconds
+2025-05-09 09:48:40,048 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:48:40,051 INFO Creating bag for directory M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag
+2025-05-09 09:48:40,069 INFO Creating data directory
+2025-05-09 09:48:40,086 INFO Moving 137333b2-bff6-4658-9270-a7aba4dec180_mets.xml to M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag\tmpcva6qj7l\137333b2-bff6-4658-9270-a7aba4dec180_mets.xml
+2025-05-09 09:48:40,090 INFO Moving MED001_cuid4_1867.jpeg to M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag\tmpcva6qj7l\MED001_cuid4_1867.jpeg
+2025-05-09 09:48:40,106 INFO Moving MED001_cuid4_1867.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag\tmpcva6qj7l\MED001_cuid4_1867.tif
+2025-05-09 09:48:40,122 INFO Moving M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag\tmpcva6qj7l to data
+2025-05-09 09:48:40,137 INFO Using 1 processes to generate manifests: sha1
+2025-05-09 09:48:40,152 INFO Generating manifest lines for file data/137333b2-bff6-4658-9270-a7aba4dec180_mets.xml
+2025-05-09 09:48:40,154 INFO Generating manifest lines for file data/MED001_cuid4_1867.jpeg
+2025-05-09 09:48:40,201 INFO Generating manifest lines for file data/MED001_cuid4_1867.tif
+2025-05-09 09:48:40,281 INFO Creating bagit.txt
+2025-05-09 09:48:40,296 INFO Creating bag-info.txt
+2025-05-09 09:48:40,312 INFO Creating M:\IDT\DAM\Preservica_Exit_Strategy\staging\137333b2-bff6-4658-9270-a7aba4dec180_bag\tagmanifest-sha1.txt
+2025-05-09 09:48:40,511 INFO Created bag: M:/IDT/DAM/Preservica_Exit_Strategy/staging\137333b2-bff6-4658-9270-a7aba4dec180_bag
+2025-05-09 09:48:40,511 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:48:40,511 INFO Validating bag structure: M:/IDT/DAM/Preservica_Exit_Strategy/staging\137333b2-bff6-4658-9270-a7aba4dec180_bag
+2025-05-09 09:48:40,685 INFO Checking payload consistency. This can take some time for large bags with many payload files...
+2025-05-09 09:48:40,700 INFO The directory M:/IDT/DAM/Preservica_Exit_Strategy/staging\137333b2-bff6-4658-9270-a7aba4dec180_bag is a valid bag structure
+2025-05-09 09:48:40,700 INFO Archiving bag (zip): M:/IDT/DAM/Preservica_Exit_Strategy/staging\137333b2-bff6-4658-9270-a7aba4dec180_bag
+2025-05-09 09:48:41,823 INFO Created bag archive: M:/IDT/DAM/Preservica_Exit_Strategy/staging\137333b2-bff6-4658-9270-a7aba4dec180_bag.zip
+2025-05-09 09:48:42,059 INFO 3/4 - Aerial view of the University of Rochester Medical Center, 1961- 137333b2-bff6-4658-9270-a7aba4dec180_bag.zip - 2 seconds
+2025-05-09 09:48:54,386 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:48:54,389 INFO Creating bag for directory M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag
+2025-05-09 09:48:54,401 INFO Creating data directory
+2025-05-09 09:48:54,417 INFO Moving 2e13527b-4021-48be-9255-6c73b5e0295c_mets.xml to M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tmp51zs2exd\2e13527b-4021-48be-9255-6c73b5e0295c_mets.xml
+2025-05-09 09:48:54,433 INFO Moving RCL003_cuid166-00001.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tmp51zs2exd\RCL003_cuid166-00001.tif
+2025-05-09 09:48:54,448 INFO Moving RCL003_cuid166-00002.tif to M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tmp51zs2exd\RCL003_cuid166-00002.tif
+2025-05-09 09:48:54,464 INFO Moving RCL003_cuid166.pdf to M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tmp51zs2exd\RCL003_cuid166.pdf
+2025-05-09 09:48:54,464 INFO Moving M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tmp51zs2exd to data
+2025-05-09 09:48:54,481 INFO Using 1 processes to generate manifests: sha1
+2025-05-09 09:48:54,497 INFO Generating manifest lines for file data/2e13527b-4021-48be-9255-6c73b5e0295c_mets.xml
+2025-05-09 09:48:54,508 INFO Generating manifest lines for file data/RCL003_cuid166-00001.tif
+2025-05-09 09:48:55,667 INFO Generating manifest lines for file data/RCL003_cuid166-00002.tif
+2025-05-09 09:48:56,844 INFO Generating manifest lines for file data/RCL003_cuid166.pdf
+2025-05-09 09:48:56,875 INFO Creating bagit.txt
+2025-05-09 09:48:56,906 INFO Creating bag-info.txt
+2025-05-09 09:48:56,922 INFO Creating M:\IDT\DAM\Preservica_Exit_Strategy\staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag\tagmanifest-sha1.txt
+2025-05-09 09:48:57,154 INFO Created bag: M:/IDT/DAM/Preservica_Exit_Strategy/staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag
+2025-05-09 09:48:57,170 DEBUG Loading configuration file from: C:\Users\jdewees\.bdbag\bdbag.json
+2025-05-09 09:48:57,170 INFO Validating bag structure: M:/IDT/DAM/Preservica_Exit_Strategy/staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag
+2025-05-09 09:48:57,344 INFO Checking payload consistency. This can take some time for large bags with many payload files...
+2025-05-09 09:48:57,359 INFO The directory M:/IDT/DAM/Preservica_Exit_Strategy/staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag is a valid bag structure
+2025-05-09 09:48:57,359 INFO Archiving bag (zip): M:/IDT/DAM/Preservica_Exit_Strategy/staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag
+2025-05-09 09:49:28,467 INFO Created bag archive: M:/IDT/DAM/Preservica_Exit_Strategy/staging\2e13527b-4021-48be-9255-6c73b5e0295c_bag.zip
+2025-05-09 09:49:28,790 INFO 4/4 - Correspondence from John McGraw to Mary McGraw, March 23, 1864- 2e13527b-4021-48be-9255-6c73b5e0295c_bag.zip - 46 seconds
+2025-05-09 09:49:28,793 INFO PAX/OPEX conversion to Bag/METS complete | total bags created: 4 | total elapsed time: 00:06:08
