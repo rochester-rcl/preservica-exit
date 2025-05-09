@@ -152,12 +152,11 @@ def preservica_exit():
                     bag_size += entity.stat().st_size
                     shutil.move(entity, os.path.join(bag_stage, entity.name))
             bag_size = str(round(bag_size / 1000000, 2)) + ' MB'
-            now = datetime.now()
-            date_time = now.strftime('%Y-%m-%d')
+            date = now.strftime('%Y-%m-%d')
             source_organization = 'University of Rochester'
             contact_name = 'John Dewees'
             contact_email = 'john.dewees@rochester.edu'
-            bdbag_api.make_bag(bag_stage, algs=['sha1'], metadata={'Source-Organization':source_organization, 'Contact-Name':contact_name, 'Contact-Email':contact_email, 'External-Identifier':preservica_id, 'Bagging-Date':date_time, 'Bag-Size':str(bag_size)})
+            bdbag_api.make_bag(bag_stage, algs=['sha1'], metadata={'Source-Organization':source_organization, 'Contact-Name':contact_name, 'Contact-Email':contact_email, 'External-Identifier':preservica_id, 'Bagging-Date':date, 'Bag-Size':str(bag_size)})
             bdbag_api.archive_bag(bag_stage, 'zip')
             for bag in os.listdir(path = stage_path):
                 if bag.endswith('_bag.zip'):
@@ -179,4 +178,4 @@ def preservica_exit():
     str_time = time.strftime("%H:%M:%S", time.gmtime(total_time))
     print('-----------------------------------------------------------------\nPAX/OPEX conversion to Bag/METS complete\ntotal bags created: {running_count}\ntotal elapsed time: {str_time}'.format(running_count=running_count, str_time=str_time))
     logger.info('PAX/OPEX conversion to Bag/METS complete | total bags created: {running_count} | total elapsed time: {str_time}'.format(running_count=running_count, str_time=str_time))
-preservica_exit()
+# preservica_exit()
