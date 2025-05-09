@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mets:mets LABEL="Correspondence from John McGraw to Mary McGraw, March 23, 1864" OBJID="2e13527b-4021-48be-9255-6c73b5e0295c" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mets="http://www.loc.gov/METS/v2" xmlns:premis="http://www.loc.gov/premis/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/v2 https://raw.githubusercontent.com/mets/METS-schema/mets2/v2/mets.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/v3/premis-v3-0.xsd http://purl.org/dc/elements/1.1/ https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd http://purl.org/dc/terms/ https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+    <metsHdr CREATEDATE="2025-05-09T09:48:54">
+        <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+            <mets:name>
+                John Dewees, Senior Digital Asset Management Specialist, Digital Initiatives
+            </mets:name>
+        </mets:agent>
+        <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <mets:name>
+                University of Rochester, River Campus Libraries
+            </mets:name>
+        </mets:agent>
+        <mets:altRecordID TYPE="code">
+            ur:16822
+        </mets:altRecordID>
+        <mets:altRecordID TYPE="local">
+            D528_1_2_1864_03_23-001-002
+        </mets:altRecordID>
+        <mets:altRecordID TYPE="dps">
+            RCL003_cuid166
+        </mets:altRecordID>
+    </metsHdr>
+    <mets:mdSec>
+        <mets:mdGrp USE="DESCRIPTIVE">
+            <mets:md ID="item_md">
+                <mets:mdWrap MDTYPE="DCQ">
+                    <mets:xmlData>
+                        <dcterms:dcterms attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://purl.org/dc/terms/" xmlns="http://preservica.com/XIP/v7.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                            <dc:title>
+                                Correspondence from John McGraw to Mary McGraw, March 23, 1864
+                            </dc:title>
+                            <dc:creator xsi:type="dcterms:LCSH">
+                                McGraw, John, 1835-1875
+                            </dc:creator>
+                            <dc:contributor xsi:type="dcterms:LCSH">
+                                McGraw, Mary McCarty, 1836-approximately 1895
+                            </dc:contributor>
+                            <dc:coverage>
+                                Camp at Warington Junction, VA
+                            </dc:coverage>
+                            <dc:date xsi:type="dcterms:EDTF">
+                                1864-03-23
+                            </dc:date>
+                            <dc:type xsi:type="dcterms:DCMIType">
+                                Text
+                            </dc:type>
+                            <dc:format xsi:type="dcterms:IMT">
+                                image/tiff
+                            </dc:format>
+                            <dc:type xsi:type="dcterms:AAT">
+                                correspondence
+                            </dc:type>
+                            <dc:language xsi:type="dcterms:ISO639-2">
+                                eng
+                            </dc:language>
+                            <dcterms:isPartOf>
+                                John McGraw Civil War Letters
+                            </dcterms:isPartOf>
+                            <dc:source>
+                                D.528, Box 1, Folder 2
+                            </dc:source>
+                            <dcterms:isReferencedBy xsi:type="dcterms:URI">
+                                https://archives.lib.rochester.edu/repositories/2/resources/1334
+                            </dcterms:isReferencedBy>
+                            <dc:rights>
+                                Use of this Item is not restricted by copyright and/or related rights. In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item. Please refer to the organization that has made the Item available for more information. http://rightsstatements.org/vocab/NoC-OKLR/1.0/
+                            </dc:rights>
+                            <dc:rights>
+                                Except in a few circumstances, Rare Books, Special Collections, and Preservation does not hold the copyright to materials in its care and, therefore, cannot grant or deny permission to use them. It is the researcher's obligation to determine and satisfy copyright or other restrictions when publishing or otherwise distributing materials found in the collections. In all cases, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester must be appropriately cited.  Please use the preferred citation. For more information contact rarebks@library.rochester.edu.
+                            </dc:rights>
+                            <dcterms:accessRights>
+                                The John McGraw Civil War Letters are open for research use. Researchers are advised to contact Rare Books, Special Collections, and Preservation prior to visiting. Upon arrival, researchers will also be asked to fill out a registration form and provide photo identification.
+                            </dcterms:accessRights>
+                            <dc:publisher>
+                                Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester
+                            </dc:publisher>
+                            <dc:identifier>
+                                D528_1_2_1864_03_23-001-002
+                            </dc:identifier>
+                            <dc:identifier>
+                                ur:16822
+                            </dc:identifier>
+                            <dcterms:bibliographicCitation>
+                                Correspondence from John McGraw to Mary McGraw, March 23, 1864, John McGraw Civil War Letters, D.528, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester.
+                            </dcterms:bibliographicCitation>
+                        </dcterms:dcterms>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <md ID="aspace">
+                <mdRef LABEL="collection_md" LOCREF="/repositories/2/digital_objects/471" LOCTYPE="URI" MDTYPE="EAD"/>
+            </md>
+        </mets:mdGrp>
+        <mets:mdGrp USE="ADMINISTRATIVE">
+            <mets:md ID="rights" USE="RIGHTS">
+                <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                        <premis:rights>
+                            <premis:rightsStatement>
+                                <premis:rightsStatementIdentifier>
+                                    <premis:rightsStatementIdentifierType>
+                                        rights_uuid
+                                    </premis:rightsStatementIdentifierType>
+                                    <premis:rightsStatementIdentifierValue>
+                                        f0a4c555-1b0b-4da5-8523-d08af3dd48f8
+                                    </premis:rightsStatementIdentifierValue>
+                                </premis:rightsStatementIdentifier>
+                                <premis:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">
+                                    copyright
+                                </premis:rightsBasis>
+                                <premis:copyrightInformation>
+                                    <premis:copyrightStatus>
+                                        publicdomain
+                                    </premis:copyrightStatus>
+                                    <premis:copyrightJurisdiction>
+                                        us
+                                    </premis:copyrightJurisdiction>
+                                    <premis:copyrightStatusDeterminationDate>
+                                        2022-09-26
+                                    </premis:copyrightStatusDeterminationDate>
+                                    <premis:copyrightNote>
+                                        Determined to no longer be eligible for copyright protection due to age of materials, as unpublished materials created greater than the life of the author plus seventy years ago
+                                    </premis:copyrightNote>
+                                    <premis:copyrightDocumentationIdentifier>
+                                        <premis:copyrightDocumentationIdentifierType>
+                                            Rights Statement: No Copyright - United States
+                                        </premis:copyrightDocumentationIdentifierType>
+                                        <premis:copyrightDocumentationIdentifierValue>
+                                            http://rightsstatements.org/vocab/NoC-US/1.0/
+                                        </premis:copyrightDocumentationIdentifierValue>
+                                    </premis:copyrightDocumentationIdentifier>
+                                </premis:copyrightInformation>
+                                <premis:linkingObjectIdentifier>
+                                    <premis:linkingObjectIdentifierType>
+                                        preservica_uuid
+                                    </premis:linkingObjectIdentifierType>
+                                    <premis:linkingObjectIdentifierValue>
+                                        2e13527b-4021-48be-9255-6c73b5e0295c
+                                    </premis:linkingObjectIdentifierValue>
+                                </premis:linkingObjectIdentifier>
+                            </premis:rightsStatement>
+                        </premis:rights>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <mets:md ID="event-001" USE="PROVENANCE">
+                <mets:mdWrap MDTYPE="PREMIS:EVENT" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                        <premis:event>
+                            <premis:eventIdentifier>
+                                <premis:eventIdentifierType>
+                                    event_uuid
+                                </premis:eventIdentifierType>
+                                <premis:eventIdentifierValue>
+                                    881aaf53-ab46-4cbb-8dcd-0b6299939fdf
+                                </premis:eventIdentifierValue>
+                            </premis:eventIdentifier>
+                            <premis:eventType>
+                                creation
+                            </premis:eventType>
+                            <premis:eventDateTime>
+                                2019
+                            </premis:eventDateTime>
+                            <premis:eventDetailInformation>
+                                <premis:eventDetail>
+                                    digitized other analog
+                                </premis:eventDetail>
+                            </premis:eventDetailInformation>
+                            <premis:linkingAgentIdentifier>
+                                <premis:linkingAgentIdentifierType>
+                                    local
+                                </premis:linkingAgentIdentifierType>
+                                <premis:linkingAgentIdentifierValue>
+                                    Lisa Wright, Digitization Specialist, Digital Scholarship, University of Rochester River Campus Libraries
+                                </premis:linkingAgentIdentifierValue>
+                                <premis:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">
+                                    implementer
+                                </premis:linkingAgentRole>
+                            </premis:linkingAgentIdentifier>
+                            <premis:linkingObjectIdentifier>
+                                <premis:linkingObjectIdentifierType>
+                                    preservica_uuid
+                                </premis:linkingObjectIdentifierType>
+                                <premis:linkingObjectIdentifierValue>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </premis:linkingObjectIdentifierValue>
+                            </premis:linkingObjectIdentifier>
+                        </premis:event>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <mets:md ID="tech" USE="TECHNICAL">
+                <mets:mdWrap MDTYPE="XIP">
+                    <mets:xmlData>
+                        <XIP xmlns="http://preservica.com/XIP/v7.7">
+                            <InformationObject>
+                                <Ref>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </Ref>
+                                <Title>
+                                    Correspondence from John McGraw to Mary McGraw, March 23, 1864
+                                </Title>
+                                <Description>
+                                    Correspondence from John McGraw to Mary McGraw, March 23, 1864, John McGraw Civil War Letters, D.528, Rare Books, Special Collections, and Preservation, River Campus Libraries, University of Rochester.
+                                </Description>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <Parent>
+                                    16885556-332c-4b50-9740-ef7eceace329
+                                </Parent>
+                            </InformationObject>
+                            <Representation>
+                                <InformationObject>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </InformationObject>
+                                <Type>
+                                    Preservation
+                                </Type>
+                                <ContentObjects>
+                                    <ContentObject>
+                                        9213eaf1-0845-45cd-933b-25470ee3593d
+                                    </ContentObject>
+                                    <ContentObject>
+                                        cc042e78-c697-4e81-b915-ab4eb3374ae2
+                                    </ContentObject>
+                                </ContentObjects>
+                                <RepresentationFormats>
+                                    <RepresentationFormat>
+                                        <PUID>
+                                            repfmt/6
+                                        </PUID>
+                                        <FormatName>
+                                            Renderable Multi Image
+                                        </FormatName>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                    </RepresentationFormat>
+                                    <RepresentationFormat>
+                                        <PUID>
+                                            repfmt/5
+                                        </PUID>
+                                        <FormatName>
+                                            Multi Image
+                                        </FormatName>
+                                        <Priority>
+                                            2
+                                        </Priority>
+                                    </RepresentationFormat>
+                                </RepresentationFormats>
+                                <RepresentationProperties>
+                                    <RepresentationProperty>
+                                        <PUID>
+                                            prp/17
+                                        </PUID>
+                                        <PropertyName>
+                                            Number of Pages
+                                        </PropertyName>
+                                        <Value>
+                                            2
+                                        </Value>
+                                    </RepresentationProperty>
+                                </RepresentationProperties>
+                            </Representation>
+                            <Representation>
+                                <InformationObject>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </InformationObject>
+                                <Type>
+                                    Access
+                                </Type>
+                                <ContentObjects>
+                                    <ContentObject>
+                                        616d9dbc-0c7c-4cde-b492-f4b816a89ebb
+                                    </ContentObject>
+                                </ContentObjects>
+                                <RepresentationFormats/>
+                                <RepresentationProperties/>
+                            </Representation>
+                            <ContentObject>
+                                <Ref>
+                                    9213eaf1-0845-45cd-933b-25470ee3593d
+                                </Ref>
+                                <Title>
+                                    RCL003_cuid166-00001
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <CustomType>
+                                    image
+                                </CustomType>
+                                <Parent>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </Parent>
+                            </ContentObject>
+                            <ContentObject>
+                                <Ref>
+                                    cc042e78-c697-4e81-b915-ab4eb3374ae2
+                                </Ref>
+                                <Title>
+                                    RCL003_cuid166-00002
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <CustomType>
+                                    image
+                                </CustomType>
+                                <Parent>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </Parent>
+                            </ContentObject>
+                            <ContentObject>
+                                <Ref>
+                                    616d9dbc-0c7c-4cde-b492-f4b816a89ebb
+                                </Ref>
+                                <Title>
+                                    RCL003_cuid166
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <CustomType>
+                                    document
+                                </CustomType>
+                                <Parent>
+                                    2e13527b-4021-48be-9255-6c73b5e0295c
+                                </Parent>
+                            </ContentObject>
+                            <Generation active="true" original="true">
+                                <ContentObject>
+                                    9213eaf1-0845-45cd-933b-25470ee3593d
+                                </ContentObject>
+                                <FormatGroup>
+                                    tiff
+                                </FormatGroup>
+                                <EffectiveDate>
+                                    2022-09-23T14:11:37Z
+                                </EffectiveDate>
+                                <Bitstreams>
+                                    <Bitstream>
+                                        Representation_Preservation_1/RCL003_cuid166-00001/Generation_1/RCL003_cuid166-00001.tif
+                                    </Bitstream>
+                                </Bitstreams>
+                                <Formats>
+                                    <Format valid="true">
+                                        <PUID>
+                                            fmt/353
+                                        </PUID>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            Tagged Image File Format
+                                        </FormatName>
+                                        <FormatVersion/>
+                                    </Format>
+                                </Formats>
+                                <Properties>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/8
+                                        </PUID>
+                                        <PropertyName>
+                                            Y Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            400
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            EXIF Metadata 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/16
+                                        </PUID>
+                                        <PropertyName>
+                                            Shutter Speed
+                                        </PropertyName>
+                                        <Value>
+                                            3.907
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/5
+                                        </PUID>
+                                        <PropertyName>
+                                            Colour Space
+                                        </PropertyName>
+                                        <Value>
+                                            RGB
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            EXIF Metadata 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/15
+                                        </PUID>
+                                        <PropertyName>
+                                            ISO Speed
+                                        </PropertyName>
+                                        <Value>
+                                            200
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/13
+                                        </PUID>
+                                        <PropertyName>
+                                            Byte Order
+                                        </PropertyName>
+                                        <Value>
+                                            little endian
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/14
+                                        </PUID>
+                                        <PropertyName>
+                                            Camera
+                                        </PropertyName>
+                                        <Value>
+                                            IQ3 100MP
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/4
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Height
+                                        </PropertyName>
+                                        <Value>
+                                            4235
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/10
+                                        </PUID>
+                                        <PropertyName>
+                                            Samples Per Pixel
+                                        </PropertyName>
+                                        <Value>
+                                            3
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/3
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Width
+                                        </PropertyName>
+                                        <Value>
+                                            3943
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/7
+                                        </PUID>
+                                        <PropertyName>
+                                            X Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            400
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/1
+                                        </PUID>
+                                        <PropertyName>
+                                            Compression Type
+                                        </PropertyName>
+                                        <Value>
+                                            Uncompressed
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/6
+                                        </PUID>
+                                        <PropertyName>
+                                            Sampling Frequency Unit
+                                        </PropertyName>
+                                        <Value>
+                                            in.
+                                        </Value>
+                                    </Property>
+                                </Properties>
+                            </Generation>
+                            <Generation active="true" original="true">
+                                <ContentObject>
+                                    cc042e78-c697-4e81-b915-ab4eb3374ae2
+                                </ContentObject>
+                                <FormatGroup>
+                                    tiff
+                                </FormatGroup>
+                                <EffectiveDate>
+                                    2022-09-23T14:11:37Z
+                                </EffectiveDate>
+                                <Bitstreams>
+                                    <Bitstream>
+                                        Representation_Preservation_1/RCL003_cuid166-00002/Generation_1/RCL003_cuid166-00002.tif
+                                    </Bitstream>
+                                </Bitstreams>
+                                <Formats>
+                                    <Format valid="true">
+                                        <PUID>
+                                            fmt/353
+                                        </PUID>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            Tagged Image File Format
+                                        </FormatName>
+                                        <FormatVersion/>
+                                    </Format>
+                                </Formats>
+                                <Properties>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/8
+                                        </PUID>
+                                        <PropertyName>
+                                            Y Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            400
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            16
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            EXIF Metadata 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/16
+                                        </PUID>
+                                        <PropertyName>
+                                            Shutter Speed
+                                        </PropertyName>
+                                        <Value>
+                                            3.907
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/5
+                                        </PUID>
+                                        <PropertyName>
+                                            Colour Space
+                                        </PropertyName>
+                                        <Value>
+                                            RGB
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            EXIF Metadata 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/15
+                                        </PUID>
+                                        <PropertyName>
+                                            ISO Speed
+                                        </PropertyName>
+                                        <Value>
+                                            200
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/13
+                                        </PUID>
+                                        <PropertyName>
+                                            Byte Order
+                                        </PropertyName>
+                                        <Value>
+                                            little endian
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/14
+                                        </PUID>
+                                        <PropertyName>
+                                            Camera
+                                        </PropertyName>
+                                        <Value>
+                                            IQ3 100MP
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/4
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Height
+                                        </PropertyName>
+                                        <Value>
+                                            4507
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/10
+                                        </PUID>
+                                        <PropertyName>
+                                            Samples Per Pixel
+                                        </PropertyName>
+                                        <Value>
+                                            3
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/3
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Width
+                                        </PropertyName>
+                                        <Value>
+                                            4005
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/7
+                                        </PUID>
+                                        <PropertyName>
+                                            X Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            400
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/1
+                                        </PUID>
+                                        <PropertyName>
+                                            Compression Type
+                                        </PropertyName>
+                                        <Value>
+                                            Uncompressed
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/6
+                                        </PUID>
+                                        <PropertyName>
+                                            Sampling Frequency Unit
+                                        </PropertyName>
+                                        <Value>
+                                            in.
+                                        </Value>
+                                    </Property>
+                                </Properties>
+                            </Generation>
+                            <Generation active="true" original="true">
+                                <ContentObject>
+                                    616d9dbc-0c7c-4cde-b492-f4b816a89ebb
+                                </ContentObject>
+                                <FormatGroup>
+                                    pdf
+                                </FormatGroup>
+                                <EffectiveDate>
+                                    2022-09-23T14:11:38Z
+                                </EffectiveDate>
+                                <Bitstreams>
+                                    <Bitstream>
+                                        Representation_Access_1/RCL003_cuid166/Generation_1/RCL003_cuid166.pdf
+                                    </Bitstream>
+                                </Bitstreams>
+                                <Formats>
+                                    <Format valid="false">
+                                        <PUID>
+                                            fmt/18
+                                        </PUID>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            Acrobat PDF 1.4 - Portable Document Format
+                                        </FormatName>
+                                        <FormatVersion>
+                                            1.4
+                                        </FormatVersion>
+                                    </Format>
+                                </Formats>
+                                <Properties>
+                                    <Property>
+                                        <PUID>
+                                            prp/18
+                                        </PUID>
+                                        <PropertyName>
+                                            Number of Images
+                                        </PropertyName>
+                                        <Value>
+                                            2
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/15
+                                        </PUID>
+                                        <PropertyName>
+                                            Encrypted
+                                        </PropertyName>
+                                        <Value>
+                                            false
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/17
+                                        </PUID>
+                                        <PropertyName>
+                                            Number of Pages
+                                        </PropertyName>
+                                        <Value>
+                                            2
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            JHOVE Messages
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/37
+                                        </PUID>
+                                        <PropertyName>
+                                            JHOVE Error
+                                        </PropertyName>
+                                        <Value>
+                                            Error: Unexpected exception java.lang.NullPointerException - At offset -1
+                                        </Value>
+                                    </Property>
+                                </Properties>
+                            </Generation>
+                            <Bitstream>
+                                <Filename>
+                                    RCL003_cuid166-00001.tif
+                                </Filename>
+                                <FileSize>
+                                    100197976
+                                </FileSize>
+                                <PhysicalLocation>
+                                    Representation_Preservation_1/RCL003_cuid166-00001/Generation_1
+                                </PhysicalLocation>
+                                <Fixities>
+                                    <Fixity>
+                                        <FixityAlgorithmRef>
+                                            SHA1
+                                        </FixityAlgorithmRef>
+                                        <FixityValue>
+                                            fea22686bf49e11943db761c182d70052a300eb5
+                                        </FixityValue>
+                                    </Fixity>
+                                </Fixities>
+                            </Bitstream>
+                            <Bitstream>
+                                <Filename>
+                                    RCL003_cuid166-00002.tif
+                                </Filename>
+                                <FileSize>
+                                    108309564
+                                </FileSize>
+                                <PhysicalLocation>
+                                    Representation_Preservation_1/RCL003_cuid166-00002/Generation_1
+                                </PhysicalLocation>
+                                <Fixities>
+                                    <Fixity>
+                                        <FixityAlgorithmRef>
+                                            SHA1
+                                        </FixityAlgorithmRef>
+                                        <FixityValue>
+                                            3a4a9fe632bf262259d4ba787cb163f47cb52bbd
+                                        </FixityValue>
+                                    </Fixity>
+                                </Fixities>
+                            </Bitstream>
+                            <Bitstream>
+                                <Filename>
+                                    RCL003_cuid166.pdf
+                                </Filename>
+                                <FileSize>
+                                    1097645
+                                </FileSize>
+                                <PhysicalLocation>
+                                    Representation_Access_1/RCL003_cuid166/Generation_1
+                                </PhysicalLocation>
+                                <Fixities>
+                                    <Fixity>
+                                        <FixityAlgorithmRef>
+                                            SHA1
+                                        </FixityAlgorithmRef>
+                                        <FixityValue>
+                                            c8ec666471262716d838f929559f9a4d34b02358
+                                        </FixityValue>
+                                    </Fixity>
+                                </Fixities>
+                            </Bitstream>
+                        </XIP>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+        </mets:mdGrp>
+    </mets:mdSec>
+</mets:mets>

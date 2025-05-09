@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mets:mets LABEL="Aerial view of the University of Rochester Medical Center, 1961" OBJID="137333b2-bff6-4658-9270-a7aba4dec180" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:mets="http://www.loc.gov/METS/v2" xmlns:premis="http://www.loc.gov/premis/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/v2 https://raw.githubusercontent.com/mets/METS-schema/mets2/v2/mets.xsd http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/v3/premis-v3-0.xsd http://purl.org/dc/elements/1.1/ https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd http://purl.org/dc/terms/ https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+    <metsHdr CREATEDATE="2025-05-09T09:48:39">
+        <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+            <mets:name>
+                John Dewees, Senior Digital Asset Management Specialist, Digital Initiatives
+            </mets:name>
+        </mets:agent>
+        <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <mets:name>
+                University of Rochester, River Campus Libraries
+            </mets:name>
+        </mets:agent>
+        <mets:altRecordID TYPE="handle">
+            http://hdl.handle.net/1802/1867
+        </mets:altRecordID>
+        <mets:altRecordID TYPE="dps">
+            MED001_cuid4_1867
+        </mets:altRecordID>
+        <mets:altRecordID TYPE="project_id">
+            DPS082_2025-01_URRMIN_URMC2
+        </mets:altRecordID>
+    </metsHdr>
+    <mets:mdSec>
+        <mets:mdGrp USE="DESCRIPTIVE"/>
+        <mets:mdGrp USE="ADMINISTRATIVE">
+            <mets:md ID="rights" USE="RIGHTS">
+                <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                        <premis:rights>
+                            <premis:rightsStatement>
+                                <premis:rightsStatementIdentifier>
+                                    <premis:rightsStatementIdentifierType>
+                                        rights_uuid
+                                    </premis:rightsStatementIdentifierType>
+                                    <premis:rightsStatementIdentifierValue>
+                                        a360ce29-94e8-4fb6-ac6d-5ccde0b96a8c
+                                    </premis:rightsStatementIdentifierValue>
+                                </premis:rightsStatementIdentifier>
+                                <premis:rightsBasis authority="rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">
+                                    copyright
+                                </premis:rightsBasis>
+                                <premis:copyrightInformation>
+                                    <premis:copyrightStatus>
+                                        copyrighted
+                                    </premis:copyrightStatus>
+                                    <premis:copyrightJurisdiction>
+                                        us
+                                    </premis:copyrightJurisdiction>
+                                    <premis:copyrightStatusDeterminationDate>
+                                        2025-03-26
+                                    </premis:copyrightStatusDeterminationDate>
+                                    <premis:copyrightDocumentationIdentifier>
+                                        <premis:copyrightDocumentationIdentifierType>
+                                            In Copyright - Educational Use Permitted
+                                        </premis:copyrightDocumentationIdentifierType>
+                                        <premis:copyrightDocumentationIdentifierValue>
+                                            https://rightsstatements.org/page/InC-EDU/1.0/
+                                        </premis:copyrightDocumentationIdentifierValue>
+                                    </premis:copyrightDocumentationIdentifier>
+                                </premis:copyrightInformation>
+                                <premis:linkingObjectIdentifier>
+                                    <premis:linkingObjectIdentifierType>
+                                        preservica_uuid
+                                    </premis:linkingObjectIdentifierType>
+                                    <premis:linkingObjectIdentifierValue>
+                                        137333b2-bff6-4658-9270-a7aba4dec180
+                                    </premis:linkingObjectIdentifierValue>
+                                </premis:linkingObjectIdentifier>
+                            </premis:rightsStatement>
+                        </premis:rights>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <mets:md ID="event-001" USE="PROVENANCE">
+                <mets:mdWrap MDTYPE="PREMIS:EVENT" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                        <premis:event>
+                            <premis:eventIdentifier>
+                                <premis:eventIdentifierType>
+                                    event_uuid
+                                </premis:eventIdentifierType>
+                                <premis:eventIdentifierValue>
+                                    7087c9a5-e2d6-470e-a6f9-58517d7ac352
+                                </premis:eventIdentifierValue>
+                            </premis:eventIdentifier>
+                            <premis:eventType>
+                                migration
+                            </premis:eventType>
+                            <premis:eventDateTime>
+                                2025-04-30
+                            </premis:eventDateTime>
+                            <premis:eventDetailInformation>
+                                <premis:eventDetail>
+                                    Migrated as part of larger project to move from the UR Research institutional repository to Preservica over the course of 2025.
+                                </premis:eventDetail>
+                            </premis:eventDetailInformation>
+                            <premis:linkingAgentIdentifier>
+                                <premis:linkingAgentIdentifierType>
+                                    local
+                                </premis:linkingAgentIdentifierType>
+                                <premis:linkingAgentIdentifierValue>
+                                    John Dewees, Senior Digital Asset Management Specialist, Digital Initiatives department, River Campus Libraries, University of Rochester
+                                </premis:linkingAgentIdentifierValue>
+                                <premis:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">
+                                    implementer
+                                </premis:linkingAgentRole>
+                            </premis:linkingAgentIdentifier>
+                            <premis:linkingObjectIdentifier>
+                                <premis:linkingObjectIdentifierType>
+                                    preservica_uuid
+                                </premis:linkingObjectIdentifierType>
+                                <premis:linkingObjectIdentifierValue>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </premis:linkingObjectIdentifierValue>
+                            </premis:linkingObjectIdentifier>
+                        </premis:event>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <mets:md ID="event-002" USE="PROVENANCE">
+                <mets:mdWrap MDTYPE="PREMIS:EVENT" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                        <premis:event>
+                            <premis:eventIdentifier>
+                                <premis:eventIdentifierType>
+                                    event_uuid
+                                </premis:eventIdentifierType>
+                                <premis:eventIdentifierValue>
+                                    10c7dbfc-45b7-4059-bf57-327df3ba3b70
+                                </premis:eventIdentifierValue>
+                            </premis:eventIdentifier>
+                            <premis:eventType>
+                                creation
+                            </premis:eventType>
+                            <premis:eventDateTime>
+                                2000-2020
+                            </premis:eventDateTime>
+                            <premis:eventDetailInformation>
+                                <premis:eventDetail>
+                                    reformatted digital
+                                </premis:eventDetail>
+                            </premis:eventDetailInformation>
+                            <premis:linkingAgentIdentifier>
+                                <premis:linkingAgentIdentifierType>
+                                    local
+                                </premis:linkingAgentIdentifierType>
+                                <premis:linkingAgentIdentifierValue>
+                                    Edward G. Miner Medical Library History of Medicine Section
+                                </premis:linkingAgentIdentifierValue>
+                                <premis:linkingAgentRole authority="eventRelatedAgentRole" authorityURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole" valueURI="http://id.loc.gov/vocabulary/preservation/eventRelatedAgentRole/imp">
+                                    implementer
+                                </premis:linkingAgentRole>
+                            </premis:linkingAgentIdentifier>
+                            <premis:linkingObjectIdentifier>
+                                <premis:linkingObjectIdentifierType>
+                                    preservica_uuid
+                                </premis:linkingObjectIdentifierType>
+                                <premis:linkingObjectIdentifierValue>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </premis:linkingObjectIdentifierValue>
+                            </premis:linkingObjectIdentifier>
+                        </premis:event>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+            <mets:md ID="tech" USE="TECHNICAL">
+                <mets:mdWrap MDTYPE="XIP">
+                    <mets:xmlData>
+                        <XIP xmlns="http://preservica.com/XIP/v7.7">
+                            <InformationObject>
+                                <Ref>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </Ref>
+                                <Title>
+                                    Aerial view of the University of Rochester Medical Center, 1961
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <Parent>
+                                    ce71b974-b741-46dd-9e69-d52d26ed90bd
+                                </Parent>
+                            </InformationObject>
+                            <Representation>
+                                <InformationObject>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </InformationObject>
+                                <Type>
+                                    Preservation
+                                </Type>
+                                <ContentObjects>
+                                    <ContentObject>
+                                        74e24d48-8f15-4c52-a648-074c30b7a729
+                                    </ContentObject>
+                                </ContentObjects>
+                                <RepresentationFormats/>
+                                <RepresentationProperties/>
+                            </Representation>
+                            <Representation>
+                                <InformationObject>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </InformationObject>
+                                <Type>
+                                    Access
+                                </Type>
+                                <ContentObjects>
+                                    <ContentObject>
+                                        31eaf6ae-71c3-4c54-9cef-2acf6ffcf2c9
+                                    </ContentObject>
+                                </ContentObjects>
+                                <RepresentationFormats/>
+                                <RepresentationProperties/>
+                            </Representation>
+                            <ContentObject>
+                                <Ref>
+                                    74e24d48-8f15-4c52-a648-074c30b7a729
+                                </Ref>
+                                <Title>
+                                    MED001_cuid4_1867
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <CustomType>
+                                    image
+                                </CustomType>
+                                <Parent>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </Parent>
+                            </ContentObject>
+                            <ContentObject>
+                                <Ref>
+                                    31eaf6ae-71c3-4c54-9cef-2acf6ffcf2c9
+                                </Ref>
+                                <Title>
+                                    MED001_cuid4_1867
+                                </Title>
+                                <SecurityTag>
+                                    public
+                                </SecurityTag>
+                                <CustomType>
+                                    image
+                                </CustomType>
+                                <Parent>
+                                    137333b2-bff6-4658-9270-a7aba4dec180
+                                </Parent>
+                            </ContentObject>
+                            <Generation active="true" original="true">
+                                <ContentObject>
+                                    74e24d48-8f15-4c52-a648-074c30b7a729
+                                </ContentObject>
+                                <FormatGroup>
+                                    tiff
+                                </FormatGroup>
+                                <EffectiveDate>
+                                    2025-04-30T19:45:29Z
+                                </EffectiveDate>
+                                <Bitstreams>
+                                    <Bitstream>
+                                        Representation_Preservation_1/MED001_cuid4_1867/Generation_1/MED001_cuid4_1867.tif
+                                    </Bitstream>
+                                </Bitstreams>
+                                <Formats>
+                                    <Format valid="true">
+                                        <PUID>
+                                            fmt/353
+                                        </PUID>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            Tagged Image File Format
+                                        </FormatName>
+                                    </Format>
+                                </Formats>
+                                <Properties>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/1
+                                        </PUID>
+                                        <PropertyName>
+                                            Compression Type
+                                        </PropertyName>
+                                        <Value>
+                                            Uncompressed
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/3
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Width
+                                        </PropertyName>
+                                        <Value>
+                                            2755
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/4
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Height
+                                        </PropertyName>
+                                        <Value>
+                                            1598
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/7
+                                        </PUID>
+                                        <PropertyName>
+                                            X Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            3000000
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/8
+                                        </PUID>
+                                        <PropertyName>
+                                            Y Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            3000000
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/6
+                                        </PUID>
+                                        <PropertyName>
+                                            Sampling Frequency Unit
+                                        </PropertyName>
+                                        <Value>
+                                            in.
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/5
+                                        </PUID>
+                                        <PropertyName>
+                                            Colour Space
+                                        </PropertyName>
+                                        <Value>
+                                            BlackIsZero
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/13
+                                        </PUID>
+                                        <PropertyName>
+                                            Byte Order
+                                        </PropertyName>
+                                        <Value>
+                                            little endian
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            8
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            TIFF Page 0
+                                        </Group>
+                                        <PUID>
+                                            prp/10
+                                        </PUID>
+                                        <PropertyName>
+                                            Samples Per Pixel
+                                        </PropertyName>
+                                        <Value>
+                                            1
+                                        </Value>
+                                    </Property>
+                                </Properties>
+                            </Generation>
+                            <Generation active="true" original="true">
+                                <ContentObject>
+                                    31eaf6ae-71c3-4c54-9cef-2acf6ffcf2c9
+                                </ContentObject>
+                                <FormatGroup>
+                                    jpeg
+                                </FormatGroup>
+                                <EffectiveDate>
+                                    2025-04-30T19:45:29Z
+                                </EffectiveDate>
+                                <Bitstreams>
+                                    <Bitstream>
+                                        Representation_Access_1/MED001_cuid4_1867/Generation_1/MED001_cuid4_1867.jpeg
+                                    </Bitstream>
+                                </Bitstreams>
+                                <Formats>
+                                    <Format valid="true">
+                                        <PUID>
+                                            fmt/44
+                                        </PUID>
+                                        <Priority>
+                                            1
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            JPEG File Interchange Format
+                                        </FormatName>
+                                        <FormatVersion>
+                                            1.02
+                                        </FormatVersion>
+                                    </Format>
+                                    <Format valid="false">
+                                        <PUID>
+                                            fmt/41
+                                        </PUID>
+                                        <Priority>
+                                            2
+                                        </Priority>
+                                        <IdentificationMethod>
+                                            Signature
+                                        </IdentificationMethod>
+                                        <FormatName>
+                                            Raw JPEG Stream
+                                        </FormatName>
+                                    </Format>
+                                </Formats>
+                                <Properties>
+                                    <Property>
+                                        <PUID>
+                                            prp/1
+                                        </PUID>
+                                        <PropertyName>
+                                            Compression Type
+                                        </PropertyName>
+                                        <Value>
+                                            Huffman coding, Baseline DCT
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/3
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Width
+                                        </PropertyName>
+                                        <Value>
+                                            2755
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/4
+                                        </PUID>
+                                        <PropertyName>
+                                            Image Height
+                                        </PropertyName>
+                                        <Value>
+                                            1598
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/7
+                                        </PUID>
+                                        <PropertyName>
+                                            X Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            300
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/8
+                                        </PUID>
+                                        <PropertyName>
+                                            Y Sampling Frequency
+                                        </PropertyName>
+                                        <Value>
+                                            300
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/6
+                                        </PUID>
+                                        <PropertyName>
+                                            Sampling Frequency Unit
+                                        </PropertyName>
+                                        <Value>
+                                            in.
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/5
+                                        </PUID>
+                                        <PropertyName>
+                                            Colour Space
+                                        </PropertyName>
+                                        <Value>
+                                            BlackIsZero
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/13
+                                        </PUID>
+                                        <PropertyName>
+                                            Byte Order
+                                        </PropertyName>
+                                        <Value>
+                                            big endian
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/9
+                                        </PUID>
+                                        <PropertyName>
+                                            Bits Per Sample
+                                        </PropertyName>
+                                        <Value>
+                                            8
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <PUID>
+                                            prp/10
+                                        </PUID>
+                                        <PropertyName>
+                                            Samples Per Pixel
+                                        </PropertyName>
+                                        <Value>
+                                            1
+                                        </Value>
+                                    </Property>
+                                    <Property>
+                                        <Group>
+                                            JHOVE Messages
+                                        </Group>
+                                        <PUID>
+                                            TSS-prp/38
+                                        </PUID>
+                                        <PropertyName>
+                                            JHOVE Info
+                                        </PropertyName>
+                                        <Value>
+                                            Info: Value offset not word-aligned: 143 - At offset 78
+                                        </Value>
+                                    </Property>
+                                </Properties>
+                            </Generation>
+                            <Bitstream>
+                                <Filename>
+                                    MED001_cuid4_1867.tif
+                                </Filename>
+                                <FileSize>
+                                    4429492
+                                </FileSize>
+                                <PhysicalLocation>
+                                    Representation_Preservation_1/MED001_cuid4_1867/Generation_1
+                                </PhysicalLocation>
+                                <Fixities>
+                                    <Fixity>
+                                        <FixityAlgorithmRef>
+                                            SHA1
+                                        </FixityAlgorithmRef>
+                                        <FixityValue>
+                                            4d5bb286869d68f7255190445144ea0c5220fcc5
+                                        </FixityValue>
+                                    </Fixity>
+                                </Fixities>
+                            </Bitstream>
+                            <Bitstream>
+                                <Filename>
+                                    MED001_cuid4_1867.jpeg
+                                </Filename>
+                                <FileSize>
+                                    2594672
+                                </FileSize>
+                                <PhysicalLocation>
+                                    Representation_Access_1/MED001_cuid4_1867/Generation_1
+                                </PhysicalLocation>
+                                <Fixities>
+                                    <Fixity>
+                                        <FixityAlgorithmRef>
+                                            SHA1
+                                        </FixityAlgorithmRef>
+                                        <FixityValue>
+                                            e14ede23e5d67daa65a7e010d1553154c9d39acf
+                                        </FixityValue>
+                                    </Fixity>
+                                </Fixities>
+                            </Bitstream>
+                        </XIP>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:md>
+        </mets:mdGrp>
+    </mets:mdSec>
+</mets:mets>
